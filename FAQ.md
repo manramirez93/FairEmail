@@ -185,7 +185,7 @@ Fonts, sizes, colors, etc should be material design whenever possible.
 * [(57) Can I use HTML in signatures?](#user-content-faq57)
 * [(58) What does an open/closed email icon mean?](#user-content-faq58)
 * [(59) Can original messages be opened in the browser?](#user-content-faq59)
-* [(60) Did you known ...?](#user-content-faq60)
+* [(60) Did you know ...?](#user-content-faq60)
 * [(61) Why are some messages shown dimmed?](#user-content-faq61)
 * [(62) Which authentication methods are supported?](#user-content-faq62)
 * [(63) How are images resized for displaying on screens?](#user-content-faq63)
